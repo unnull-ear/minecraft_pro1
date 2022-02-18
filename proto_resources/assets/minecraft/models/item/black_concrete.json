@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/black_concrete"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "minecraft:item/byakko_ear"},
+    {"predicate": {"custom_model_data":2}, "model": "minecraft:item/wing"},
+    {"predicate": {"custom_model_data":3}, "model": "minecraft:item/wear_format"},
+    {"predicate": {"custom_model_data":4}, "model": "minecraft:item/mob1_body"},
+    {"predicate": {"custom_model_data":5}, "model": "minecraft:item/mob1_left_hutomomo"},
+    {"predicate": {"custom_model_data":6}, "model": "minecraft:item/mob1_right_hutomomo"},
+    {"predicate": {"custom_model_data":7}, "model": "minecraft:item/mob1_sune"},
+    {"predicate": {"custom_model_data":8}, "model": "minecraft:item/mob1_asisaki"}
+  ]
+}

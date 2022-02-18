@@ -1,0 +1,12 @@
+{	
+	"entity.hecate2.shot": {
+		"sounds": [
+			"hecate2"
+		]
+	},
+	"entity.hecate2.reload": {
+		"sounds": [
+			"hecate2reload"
+		]
+	}
+}
